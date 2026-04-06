@@ -9,9 +9,11 @@ MONITORED_CHANNEL_IDS = {
 }
 
 BANNED_WORDS = [
-    "mace",
-    "jvc",
-    "kill ace",
+    "!staff",
+    "!home",
+    "!echest",
+    "!tpr",
+    "!guide",
 ]
 
 REPOST_CLEANED_MESSAGE = True
